@@ -1,0 +1,2 @@
+ESPAsyncWebServer v1.2.3
+ESPAsyncTCP v1.2.2
