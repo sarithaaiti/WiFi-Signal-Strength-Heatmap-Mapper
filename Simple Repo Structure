@@ -1,0 +1,4 @@
+wifi-heatmap-mapper/
+├── README.md          ← Text instructions (you have)
+├── wifi_mapper.ino    ← Arduino code
+└── libraries.txt      ← Library list
